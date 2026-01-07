@@ -1,6 +1,5 @@
-public class Test{
-  public class static main (Strings args[])
-  {
-    system.out.println("Test FIle"):
-  }
+public class Test { 
+    public static void main(String[] args) { 
+        System.out.println("Testing Jenkins Deployment"); 
+    } 
 }
